@@ -1,0 +1,9 @@
+module tests {
+    use aptos_framework::account;
+    use aptos_framework::signer;
+    use auction::Auction;
+
+    public fun auction_redeem_success() {
+        let source_account = @0x123;
+        let bidder = @0x456;
+        let token_id = token::create_token_id_raw(@alcohol
