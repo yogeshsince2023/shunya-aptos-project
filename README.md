@@ -1,4 +1,4 @@
-  #Aptos Auction House
+# Aptos Auction House
 A decentralized auction house for rare alcohol bottles built on the Aptos blockchain.
     *Overview*
 This repository contains the source code for the Aptos Auction House, a decentralized application (dApp) that allows users to buy and sell rare alcohol bottles in a secure and transparent manner. The dApp uses non-fungible tokens (NFTs) to prove ownership of the bottles and provides a fair and transparent auction process.
